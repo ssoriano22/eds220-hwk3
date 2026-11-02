@@ -1,5 +1,8 @@
 .OTTER_LOG
 
+# Add data/ to gitignore
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
